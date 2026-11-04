@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-31",
+  "source": "U.S. Treasury published par yields; not zero rates or individual bond prices",
+  "url": "https://home.treasury.gov/treasury-daily-interest-rate-xml-feed",
+  "raw_sha256": "1a69a2d25b53fb490054f25bdcdad7e25c468bcaf0e0f972227ea6aa9b44dd29",
+  "nodes": [
+    {
+      "maturity": 0.08333333333333333,
+      "yield_pct": 4.06
+    },
+    {
+      "maturity": 0.16666666666666666,
+      "yield_pct": 4.04
+    },
+    {
+      "maturity": 0.25,
+      "yield_pct": 3.89
+    },
+    {
+      "maturity": 0.3333333333333333,
+      "yield_pct": 3.87
+    },
+    {
+      "maturity": 0.5,
+      "yield_pct": 3.79
+    },
+    {
+      "maturity": 1.0,
+      "yield_pct": 3.7
+    },
+    {
+      "maturity": 2.0,
+      "yield_pct": 3.6
+    },
+    {
+      "maturity": 3.0,
+      "yield_pct": 3.6
+    },
+    {
+      "maturity": 5.0,
+      "yield_pct": 3.71
+    },
+    {
+      "maturity": 7.0,
+      "yield_pct": 3.89
+    },
+    {
+      "maturity": 10.0,
+      "yield_pct": 4.11
+    },
+    {
+      "maturity": 20.0,
+      "yield_pct": 4.65
+    },
+    {
+      "maturity": 30.0,
+      "yield_pct": 4.67
+    }
+  ]
+}

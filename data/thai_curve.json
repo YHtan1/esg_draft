@@ -1,0 +1,602 @@
+{
+  "date": "2025-10-31",
+  "source": "ThaiBMA published bootstrapped zero curve (not individual bond quotes)",
+  "url": "https://www.thaibma.or.th/yieldcurve/zero/2025-10-31",
+  "raw_sha256": "c68ecdef51d903d44b2455633f637aff07976fbfc2ed3f29100357f19f767c27",
+  "compounding": "annual effective, inferred and cross-checked against simultaneous short-tenor semiannual BEY observations",
+  "discount_conversion": "P(0,T)=(1+published_yield_pct/100)**(-T)",
+  "convention_checks": [
+    {
+      "maturity": 0.076712,
+      "published_zero_pct": 1.268081,
+      "annual_effective_from_BEY_pct": 1.26808078353849,
+      "difference_pct": 2.164615100497258e-07
+    },
+    {
+      "maturity": 0.249315,
+      "published_zero_pct": 1.268809,
+      "annual_effective_from_BEY_pct": 1.2688083545162026,
+      "difference_pct": 6.454837975233829e-07
+    },
+    {
+      "maturity": 0.49863,
+      "published_zero_pct": 1.265043,
+      "annual_effective_from_BEY_pct": 1.2650417186408902,
+      "difference_pct": 1.2813591097060595e-06
+    },
+    {
+      "maturity": 1.0,
+      "published_zero_pct": 1.262778,
+      "annual_effective_from_BEY_pct": 1.2627775443046398,
+      "difference_pct": 4.556953601131397e-07
+    }
+  ],
+  "nodes": [
+    {
+      "maturity": 0.076712,
+      "published_yield_pct": 1.268081,
+      "zero_cc": 0.012601081833221603
+    },
+    {
+      "maturity": 0.249315,
+      "published_yield_pct": 1.268809,
+      "zero_cc": 0.012608270647071792
+    },
+    {
+      "maturity": 0.49863,
+      "published_yield_pct": 1.265043,
+      "zero_cc": 0.012571081802212078
+    },
+    {
+      "maturity": 1.0,
+      "published_yield_pct": 1.262778,
+      "zero_cc": 0.012548714504831296
+    },
+    {
+      "maturity": 2.0,
+      "published_yield_pct": 1.333929,
+      "zero_cc": 0.013251105022217245
+    },
+    {
+      "maturity": 3.0,
+      "published_yield_pct": 1.364895,
+      "zero_cc": 0.013556642071025159
+    },
+    {
+      "maturity": 4.0,
+      "published_yield_pct": 1.40589,
+      "zero_cc": 0.013960990267029315
+    },
+    {
+      "maturity": 5.0,
+      "published_yield_pct": 1.468813,
+      "zero_cc": 0.014581304195648348
+    },
+    {
+      "maturity": 6.0,
+      "published_yield_pct": 1.548464,
+      "zero_cc": 0.015365976369995652
+    },
+    {
+      "maturity": 7.0,
+      "published_yield_pct": 1.648078,
+      "zero_cc": 0.016346445889797633
+    },
+    {
+      "maturity": 8.0,
+      "published_yield_pct": 1.705961,
+      "zero_cc": 0.016915728918036298
+    },
+    {
+      "maturity": 9.0,
+      "published_yield_pct": 1.740436,
+      "zero_cc": 0.017254638830802985
+    },
+    {
+      "maturity": 10.0,
+      "published_yield_pct": 1.755213,
+      "zero_cc": 0.017399870437459823
+    },
+    {
+      "maturity": 11.0,
+      "published_yield_pct": 1.825695,
+      "zero_cc": 0.01809229295888844
+    },
+    {
+      "maturity": 12.0,
+      "published_yield_pct": 1.943951,
+      "zero_cc": 0.01925297626572469
+    },
+    {
+      "maturity": 13.0,
+      "published_yield_pct": 2.032449,
+      "zero_cc": 0.02012070415535205
+    },
+    {
+      "maturity": 14.0,
+      "published_yield_pct": 2.054266,
+      "zero_cc": 0.020334505431766407
+    },
+    {
+      "maturity": 15.0,
+      "published_yield_pct": 2.097478,
+      "zero_cc": 0.020757837604185522
+    },
+    {
+      "maturity": 16.0,
+      "published_yield_pct": 2.210739,
+      "zero_cc": 0.021866564539063653
+    },
+    {
+      "maturity": 17.0,
+      "published_yield_pct": 2.338441,
+      "zero_cc": 0.023115183737548332
+    },
+    {
+      "maturity": 18.0,
+      "published_yield_pct": 2.417891,
+      "zero_cc": 0.023891228152989056
+    },
+    {
+      "maturity": 19.0,
+      "published_yield_pct": 2.434929,
+      "zero_cc": 0.024057571970362786
+    },
+    {
+      "maturity": 20.0,
+      "published_yield_pct": 2.453987,
+      "zero_cc": 0.024243604484244247
+    },
+    {
+      "maturity": 21.0,
+      "published_yield_pct": 2.464503,
+      "zero_cc": 0.024346240415333054
+    },
+    {
+      "maturity": 22.0,
+      "published_yield_pct": 2.45396,
+      "zero_cc": 0.02424334095127351
+    },
+    {
+      "maturity": 23.0,
+      "published_yield_pct": 2.441709,
+      "zero_cc": 0.024123758140427477
+    },
+    {
+      "maturity": 24.0,
+      "published_yield_pct": 2.439079,
+      "zero_cc": 0.0240980846741565
+    },
+    {
+      "maturity": 25.0,
+      "published_yield_pct": 2.446005,
+      "zero_cc": 0.02416569330497941
+    },
+    {
+      "maturity": 26.0,
+      "published_yield_pct": 2.458827,
+      "zero_cc": 0.024290844087336123
+    },
+    {
+      "maturity": 27.0,
+      "published_yield_pct": 2.47856,
+      "zero_cc": 0.024483419979415628
+    },
+    {
+      "maturity": 28.0,
+      "published_yield_pct": 2.531014,
+      "zero_cc": 0.024995142433359492
+    },
+    {
+      "maturity": 29.0,
+      "published_yield_pct": 2.58696,
+      "zero_cc": 0.025540643154689024
+    },
+    {
+      "maturity": 30.0,
+      "published_yield_pct": 2.607072,
+      "zero_cc": 0.02573667224840462
+    },
+    {
+      "maturity": 31.0,
+      "published_yield_pct": 2.613722,
+      "zero_cc": 0.025801480495880044
+    },
+    {
+      "maturity": 32.0,
+      "published_yield_pct": 2.619038,
+      "zero_cc": 0.02585328509083057
+    },
+    {
+      "maturity": 33.0,
+      "published_yield_pct": 2.623039,
+      "zero_cc": 0.025892273197548145
+    },
+    {
+      "maturity": 34.0,
+      "published_yield_pct": 2.625748,
+      "zero_cc": 0.025918670430289475
+    },
+    {
+      "maturity": 35.0,
+      "published_yield_pct": 2.627186,
+      "zero_cc": 0.025932682410259745
+    },
+    {
+      "maturity": 36.0,
+      "published_yield_pct": 2.62675,
+      "zero_cc": 0.02592843401426308
+    },
+    {
+      "maturity": 37.0,
+      "published_yield_pct": 2.618277,
+      "zero_cc": 0.025845869285376247
+    },
+    {
+      "maturity": 38.0,
+      "published_yield_pct": 2.603648,
+      "zero_cc": 0.025703301672049567
+    },
+    {
+      "maturity": 39.0,
+      "published_yield_pct": 2.587249,
+      "zero_cc": 0.02554346027289709
+    },
+    {
+      "maturity": 40.0,
+      "published_yield_pct": 2.573467,
+      "zero_cc": 0.02540910706640184
+    },
+    {
+      "maturity": 41.0,
+      "published_yield_pct": 2.566025,
+      "zero_cc": 0.025336551558627986
+    },
+    {
+      "maturity": 42.0,
+      "published_yield_pct": 2.563948,
+      "zero_cc": 0.02531630098315435
+    },
+    {
+      "maturity": 43.0,
+      "published_yield_pct": 2.564896,
+      "zero_cc": 0.025325543954367185
+    },
+    {
+      "maturity": 44.0,
+      "published_yield_pct": 2.566484,
+      "zero_cc": 0.025341026714733067
+    },
+    {
+      "maturity": 45.0,
+      "published_yield_pct": 2.568159,
+      "zero_cc": 0.02535735745219936
+    },
+    {
+      "maturity": 46.0,
+      "published_yield_pct": 2.569368,
+      "zero_cc": 0.025369144666539854
+    },
+    {
+      "maturity": 47.0,
+      "published_yield_pct": 2.569592,
+      "zero_cc": 0.02537132855203874
+    },
+    {
+      "maturity": 48.0,
+      "published_yield_pct": 2.568891,
+      "zero_cc": 0.02536449414447414
+    },
+    {
+      "maturity": 49.0,
+      "published_yield_pct": 2.567427,
+      "zero_cc": 0.025350220708991837
+    },
+    {
+      "maturity": 50.0,
+      "published_yield_pct": 2.565283,
+      "zero_cc": 0.025329317168058967
+    },
+    {
+      "maturity": 51.0,
+      "published_yield_pct": 2.56254,
+      "zero_cc": 0.025302572868236083
+    }
+  ],
+  "government_dealer_quotes": [
+    {
+      "symbol": "T-BILL1M",
+      "maturity": 0.076712328767123,
+      "yield_pct": 1.264086,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "T-BILL3M",
+      "maturity": 0.249315068493151,
+      "yield_pct": 1.264809,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "T-BILL6M",
+      "maturity": 0.498630136986301,
+      "yield_pct": 1.261066,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "T-BILL1Y",
+      "maturity": 1.0,
+      "yield_pct": 1.258816,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB26DA",
+      "maturity": 1.128767123287671,
+      "yield_pct": 1.28625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB273A",
+      "maturity": 1.375342465753425,
+      "yield_pct": 1.3193695,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB276A",
+      "maturity": 1.627397260273973,
+      "yield_pct": 1.3002,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB27NA",
+      "maturity": 2.046575342465753,
+      "yield_pct": 1.33,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB27DA",
+      "maturity": 2.128767123287671,
+      "yield_pct": 1.331412,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB283A",
+      "maturity": 2.367123287671233,
+      "yield_pct": 1.336103,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB284A",
+      "maturity": 2.463013698630137,
+      "yield_pct": 1.339375,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB286A",
+      "maturity": 2.63013698630137,
+      "yield_pct": 1.343344,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB28DA",
+      "maturity": 3.131506849315068,
+      "yield_pct": 1.365955,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB293A",
+      "maturity": 3.378082191780822,
+      "yield_pct": 1.377535,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB294A",
+      "maturity": 3.463013698630137,
+      "yield_pct": 1.381875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB296A",
+      "maturity": 3.643835616438356,
+      "yield_pct": 1.384548,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB29NA",
+      "maturity": 4.049315068493151,
+      "yield_pct": 1.40125,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB29DA",
+      "maturity": 4.131506849315069,
+      "yield_pct": 1.405941,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB303A",
+      "maturity": 4.378082191780821,
+      "yield_pct": 1.4190625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB316A",
+      "maturity": 5.638356164383562,
+      "yield_pct": 1.503353625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB31DA",
+      "maturity": 6.131506849315069,
+      "yield_pct": 1.5472535,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB326A",
+      "maturity": 6.654794520547945,
+      "yield_pct": 1.59875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB336A",
+      "maturity": 7.632876712328767,
+      "yield_pct": 1.6542385,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB346A",
+      "maturity": 8.632876712328768,
+      "yield_pct": 1.70875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB353A",
+      "maturity": 9.38082191780822,
+      "yield_pct": 1.71875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB356A",
+      "maturity": 9.632876712328768,
+      "yield_pct": 1.727705,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "ESGLB35DA",
+      "maturity": 10.134246575342466,
+      "yield_pct": 1.739686625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB366A",
+      "maturity": 10.635616438356164,
+      "yield_pct": 1.754556,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "ESGLB376A",
+      "maturity": 11.635616438356164,
+      "yield_pct": 1.844583375,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB383A",
+      "maturity": 12.372602739726027,
+      "yield_pct": 1.90241,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB386A",
+      "maturity": 12.635616438356164,
+      "yield_pct": 1.94875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB396A",
+      "maturity": 13.624657534246575,
+      "yield_pct": 1.953378,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "SLB406A",
+      "maturity": 14.638356164383561,
+      "yield_pct": 2.011058125,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB406A",
+      "maturity": 14.652054794520549,
+      "yield_pct": 1.979428,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB416A",
+      "maturity": 15.63013698630137,
+      "yield_pct": 2.065963,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB426A",
+      "maturity": 16.638356164383563,
+      "yield_pct": 2.208623875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB436A",
+      "maturity": 17.638356164383563,
+      "yield_pct": 2.2625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB446A",
+      "maturity": 18.673972602739727,
+      "yield_pct": 2.255525,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB456A",
+      "maturity": 19.64109589041096,
+      "yield_pct": 2.3146875,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB466A",
+      "maturity": 20.64109589041096,
+      "yield_pct": 2.33715625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB496A",
+      "maturity": 23.643835616438356,
+      "yield_pct": 2.355561625,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB526A",
+      "maturity": 26.646575342465752,
+      "yield_pct": 2.36159025,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB556A",
+      "maturity": 29.646575342465752,
+      "yield_pct": 2.424244125,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB616A",
+      "maturity": 35.652054794520545,
+      "yield_pct": 2.444689,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB666A",
+      "maturity": 40.654794520547945,
+      "yield_pct": 2.444781125,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB676A",
+      "maturity": 41.654794520547945,
+      "yield_pct": 2.44974475,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB716A",
+      "maturity": 45.657534246575345,
+      "yield_pct": 2.473538,
+      "synthetic_quote": true
+    },
+    {
+      "symbol": "LB726A",
+      "maturity": 46.66027397260274,
+      "yield_pct": 2.455434,
+      "synthetic_quote": false
+    },
+    {
+      "symbol": "LB776A",
+      "maturity": 51.66301369863014,
+      "yield_pct": 2.47515625,
+      "synthetic_quote": false
+    }
+  ]
+}

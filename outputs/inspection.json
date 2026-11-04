@@ -1,0 +1,1102 @@
+{
+  "metadata": {
+    "market": {
+      "domestic": "THB",
+      "foreign": "USD",
+      "curves": [
+        {
+          "times": [
+            0.0,
+            0.076712,
+            0.249315,
+            0.49863,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0,
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0,
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0,
+            38.0,
+            39.0,
+            40.0,
+            41.0,
+            42.0,
+            43.0,
+            44.0,
+            45.0,
+            46.0,
+            47.0,
+            48.0,
+            49.0,
+            50.0,
+            51.0
+          ],
+          "discounts": [
+            1.0,
+            0.9990338128700639,
+            0.9968615044101155,
+            0.9937512864048,
+            0.9875296923021408,
+            0.973845891590464,
+            0.9601459966753447,
+            0.9456866883188763,
+            0.929687732263714,
+            0.9119265237473079,
+            0.8918787187005902,
+            0.8734312740324545,
+            0.8561653552478189,
+            0.8402979863691423,
+            0.8195374177904772,
+            0.7937111179866686,
+            0.7698426358707857,
+            0.7522526234217254,
+            0.7324446060702429,
+            0.7047832060390192,
+            0.6750570159934995,
+            0.6504817044736797,
+            0.633120907836566,
+            0.6157759558236794,
+            0.5997328045385789,
+            0.5866343883861569,
+            0.574160424092238,
+            0.5608207001168155,
+            0.5465429777618249,
+            0.5317605705671253,
+            0.5163077175305679,
+            0.49665284987860425,
+            0.47679023130009546,
+            0.46204168372742993,
+            0.4493982131256194,
+            0.4372259703521411,
+            0.4255192821606997,
+            0.4142710560530136,
+            0.40347373579423107,
+            0.3932052163027316,
+            0.3843133038709585,
+            0.3765420830806523,
+            0.3692819071365179,
+            0.36190834759350055,
+            0.35387957267713677,
+            0.3453196941579233,
+            0.3365534202025894,
+            0.32791358179542224,
+            0.31947345698369123,
+            0.31130546238971946,
+            0.3034760931955309,
+            0.2959704327709252,
+            0.28875958735375856,
+            0.28182587637807754,
+            0.27515210743594054
+          ],
+          "extrapolation": "flat_forward"
+        },
+        {
+          "times": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0,
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "discounts": [
+            1.0,
+            0.9637821455543962,
+            0.930841745039338,
+            0.8983846155329462,
+            0.8653510640446446,
+            0.8315157823100985,
+            0.7970467057214307,
+            0.7622551018430469,
+            0.727492201195598,
+            0.6930889035981637,
+            0.6593373259170524,
+            0.6264633537325565,
+            0.5946513568792001,
+            0.5640434451742349,
+            0.5347210873943875,
+            0.5067487299087432,
+            0.4801541887979705,
+            0.4549385154687923,
+            0.4310867211299567,
+            0.40857858853121604,
+            0.3873603043846593,
+            0.36739342587710666,
+            0.3486258482176789,
+            0.3309936791536324,
+            0.31444565998873136,
+            0.29892128533486406,
+            0.284352105684756,
+            0.27069217210854396,
+            0.2578812683961417,
+            0.24586762441947863,
+            0.23459374629549753
+          ],
+          "extrapolation": "flat_forward"
+        }
+      ],
+      "rates": [
+        {
+          "mean_reversions": [
+            0.12,
+            0.6
+          ],
+          "volatilities": [
+            0.008,
+            0.012
+          ],
+          "correlation": [
+            [
+              1.0,
+              -0.4
+            ],
+            [
+              -0.4,
+              1.0
+            ]
+          ]
+        },
+        {
+          "mean_reversions": [
+            0.12,
+            0.6
+          ],
+          "volatilities": [
+            0.008,
+            0.012
+          ],
+          "correlation": [
+            [
+              1.0,
+              -0.4
+            ],
+            [
+              -0.4,
+              1.0
+            ]
+          ]
+        }
+      ],
+      "equities": [
+        {
+          "spot": 1309.5,
+          "v0": 0.04,
+          "kappa": 1.5,
+          "theta": 0.04,
+          "xi": 0.35,
+          "rho": -0.65,
+          "dividend": 0.0376
+        },
+        {
+          "spot": 6840.2,
+          "v0": 0.05,
+          "kappa": 1.2,
+          "theta": 0.05,
+          "xi": 0.3,
+          "rho": -0.55,
+          "dividend": 0.015
+        }
+      ],
+      "credits": [
+        {
+          "knots": [
+            0.0,
+            5.0,
+            10.0,
+            40.0
+          ],
+          "multipliers": [
+            0.015,
+            0.02,
+            0.025
+          ],
+          "kappa": 0.7,
+          "nu": 0.35,
+          "recovery": 0.4,
+          "liquidity": 0.0,
+          "rating": "ASSUMED-THB-A"
+        },
+        {
+          "knots": [
+            0.0,
+            5.0,
+            10.0,
+            40.0
+          ],
+          "multipliers": [
+            0.015,
+            0.02,
+            0.025
+          ],
+          "kappa": 0.7,
+          "nu": 0.35,
+          "recovery": 0.4,
+          "liquidity": 0.0,
+          "rating": "ASSUMED-USD-A"
+        }
+      ],
+      "correlation": [
+        [
+          1.0,
+          -0.65,
+          -0.12,
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.05
+        ],
+        [
+          -0.65,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.12,
+          0.0,
+          1.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -0.4,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -0.55,
+          -0.12,
+          0.0,
+          0.0,
+          0.0,
+          0.22
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.55,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.1
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.12,
+          0.0,
+          1.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.15
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.4,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.05,
+          0.0,
+          0.0,
+          0.0,
+          0.22,
+          -0.1,
+          0.15,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "fx_spot": 35.0,
+      "fx_vol": 0.12,
+      "snapshot": "OBSERVED-CURVES-INDEX-SPOTS-2025-10-31",
+      "synthetic": false
+    },
+    "market_sha256": "e8eca32795eba63e7fd62fc3475f47f006e8f0476cc596b8230fd72cfddefd12",
+    "measure": "domestic risk-neutral Q(THB)",
+    "warning": "Observed curves/spots; assumed dynamics and credit",
+    "settings": {
+      "paths": 1000,
+      "horizon": 10.0,
+      "seed": 7,
+      "internal_steps": 12,
+      "heston_scheme": "full_truncation"
+    },
+    "software": {
+      "numpy": "1.26.4",
+      "scipy": "1.13.1",
+      "QuantLib": "1.40",
+      "matplotlib": "3.9.4",
+      "pandas": "2.2.3"
+    },
+    "python": "3.9.6 (default, May 22 2026, 11:13:45) \n[Clang 21.0.0 (clang-2100.1.1.101)]",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "precision": "float64",
+    "driver_order": [
+      "S_local",
+      "v_local",
+      "x_local",
+      "y_local",
+      "S_foreign",
+      "v_foreign",
+      "x_foreign",
+      "y_foreign",
+      "credit_local",
+      "credit_foreign",
+      "FX"
+    ]
+  },
+  "scope": "six security proxies only; no insurance liabilities",
+  "data_source": "observed",
+  "data_provenance": {
+    "snapshot_date": "2025-10-31",
+    "scope": "Observed Thai/US government curve nodes and index spots; assumed stochastic dynamics, FX and corporate credit",
+    "curves": [
+      "thai_curve.json",
+      "us_curve.json"
+    ],
+    "government_quotes": "us_par_yields.json plus Thai dealer quotes embedded in thai_curve.json",
+    "indices": "stock_indices.json",
+    "interpolation": "piecewise linear log discount factors; no extra smoothing",
+    "assumed_parameters": [
+      "Hull\u2013White/G2++ mean reversions and volatilities",
+      "Heston kappa/theta/xi/rho and variance level",
+      "future dividend yields",
+      "FX spot/volatility",
+      "all Brownian correlations",
+      "representative corporate intensity curves, CIR dynamics and 40% recovery"
+    ],
+    "limits": "Real-data initialized research test, not full market calibration, and not a physical-measure historical forecast/backtest."
+  },
+  "mechanical_checks": {
+    "finite states": true,
+    "finite discounted gains": true,
+    "strictly positive finite discount factors": true,
+    "strictly positive finite FX": true,
+    "nonnegative reported variance and credit factors": true,
+    "strictly increasing reporting grid": true,
+    "default times are positive finite or +infinity": true
+  },
+  "discount_checks": [
+    {
+      "claim": "domestic unit payoff",
+      "MC_domestic_price": 0.8411929825519565,
+      "curve_reference": 0.8402979863691423,
+      "MC_standard_error": 0.0024252109669766664,
+      "difference": 0.0008949961828141895,
+      "inside_3_SE": true
+    },
+    {
+      "claim": "foreign unit payoff converted at maturity",
+      "MC_domestic_price": 23.03232109865613,
+      "curve_reference": 23.076806407096836,
+      "MC_standard_error": 0.28252928552131634,
+      "difference": -0.04448530844070575,
+      "inside_3_SE": true
+    }
+  ],
+  "gain_diagnostics": [
+    {
+      "asset": "equity_local",
+      "initial_domestic_value": 1309.5,
+      "relative_gain_change": 0.00527030877283153,
+      "standard_error": 0.01726829296699195,
+      "z_score": 0.3052014917111747,
+      "sampling_check": "inside 3 SE"
+    },
+    {
+      "asset": "equity_foreign",
+      "initial_domestic_value": 239407.0,
+      "relative_gain_change": -0.0031466109769865353,
+      "standard_error": 0.02680436660610019,
+      "z_score": -0.11739173035599444,
+      "sampling_check": "inside 3 SE"
+    },
+    {
+      "asset": "government_local",
+      "initial_domestic_value": 0.8402979863691376,
+      "relative_gain_change": 0.001065093808782643,
+      "standard_error": 0.0028861320701907356,
+      "z_score": 0.36903848572399334,
+      "sampling_check": "inside 3 SE"
+    },
+    {
+      "asset": "government_foreign",
+      "initial_domestic_value": 23.076806407097013,
+      "relative_gain_change": -0.0019277064449882437,
+      "standard_error": 0.012242997602754404,
+      "z_score": -0.15745379583792063,
+      "sampling_check": "inside 3 SE"
+    },
+    {
+      "asset": "corporate_local",
+      "initial_domestic_value": 114.34118532973038,
+      "relative_gain_change": 0.007572488797581469,
+      "standard_error": 0.007297444249641868,
+      "z_score": 1.0376905308941688,
+      "sampling_check": "inside 3 SE"
+    },
+    {
+      "asset": "corporate_foreign",
+      "initial_domestic_value": 3301.4110267069264,
+      "relative_gain_change": 0.008071118290696871,
+      "standard_error": 0.012057429763901888,
+      "z_score": 0.6693896169198988,
+      "sampling_check": "inside 3 SE"
+    }
+  ],
+  "heston_comparison": [
+    {
+      "method": "full_truncation",
+      "steps_per_year": 12,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.91716806912361,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": 0.13872339342954287,
+      "replicate_SE": 0.07539681436728644
+    },
+    {
+      "method": "reflection",
+      "steps_per_year": 12,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 7.106857075458059,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": 0.32841239976399184,
+      "replicate_SE": 0.056752267753575135
+    },
+    {
+      "method": "qe",
+      "steps_per_year": 12,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.834127378388322,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": 0.05568270269425479,
+      "replicate_SE": 0.061509150731963176
+    },
+    {
+      "method": "qe_martingale",
+      "steps_per_year": 12,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.832219709296719,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": 0.05377503360265212,
+      "replicate_SE": 0.06149725114794767
+    },
+    {
+      "method": "full_truncation",
+      "steps_per_year": 52,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.777601451369372,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.000843224324695413,
+      "replicate_SE": 0.0644316819148818
+    },
+    {
+      "method": "reflection",
+      "steps_per_year": 52,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.813268289424437,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": 0.03482361373036991,
+      "replicate_SE": 0.06408417063442234
+    },
+    {
+      "method": "qe",
+      "steps_per_year": 52,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.748663817286341,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.02978085840772593,
+      "replicate_SE": 0.07478544948564027
+    },
+    {
+      "method": "qe_martingale",
+      "steps_per_year": 52,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.748549016104798,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.029895659589269208,
+      "replicate_SE": 0.07478267200737762
+    },
+    {
+      "method": "full_truncation",
+      "steps_per_year": 104,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.653262418423077,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.12518225727098997,
+      "replicate_SE": 0.07788496479932325
+    },
+    {
+      "method": "reflection",
+      "steps_per_year": 104,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.667652884383671,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.11079179131039663,
+      "replicate_SE": 0.07794691675732912
+    },
+    {
+      "method": "qe",
+      "steps_per_year": 104,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.651952943356533,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.1264917323375343,
+      "replicate_SE": 0.10414435577215328
+    },
+    {
+      "method": "qe_martingale",
+      "steps_per_year": 104,
+      "paths_per_run": 1000,
+      "replicates": 8,
+      "MC_price": 6.651923561928958,
+      "QuantLib_reference": 6.778444675694067,
+      "pricing_error": -0.12652111376510966,
+      "replicate_SE": 0.1041439247422487
+    }
+  ],
+  "timestep_check": [
+    {
+      "security": "TH equity (SET proxy)",
+      "nominal_steps_per_year": 12,
+      "actual_internal_steps": 120,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.9988498080445454,
+      "replicate_SE": 0.008970457696076595
+    },
+    {
+      "security": "US equity (S&P 500 proxy)",
+      "nominal_steps_per_year": 12,
+      "actual_internal_steps": 120,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0304981439531284,
+      "replicate_SE": 0.011877155285814569
+    },
+    {
+      "security": "TH government (10Y zero)",
+      "nominal_steps_per_year": 12,
+      "actual_internal_steps": 120,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.9980447456587972,
+      "replicate_SE": 0.00035034695830911937
+    },
+    {
+      "security": "US government (10Y zero)",
+      "nominal_steps_per_year": 12,
+      "actual_internal_steps": 120,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0086403240753532,
+      "replicate_SE": 0.005843787887210747
+    },
+    {
+      "security": "TH corporate (10Y representative)",
+      "nominal_steps_per_year": 12,
+      "actual_internal_steps": 120,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.998371436283638,
+      "replicate_SE": 0.001064498789355952
+    },
+    {
+      "security": "US corporate (10Y representative)",
+      "nominal_steps_per_year": 12,
+      "actual_internal_steps": 120,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.005765608131562,
+      "replicate_SE": 0.006576229961231721
+    },
+    {
+      "security": "TH equity (SET proxy)",
+      "nominal_steps_per_year": 24,
+      "actual_internal_steps": 240,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.9898901469928064,
+      "replicate_SE": 0.01294018216722537
+    },
+    {
+      "security": "US equity (S&P 500 proxy)",
+      "nominal_steps_per_year": 24,
+      "actual_internal_steps": 240,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0271084300850237,
+      "replicate_SE": 0.010821131078381209
+    },
+    {
+      "security": "TH government (10Y zero)",
+      "nominal_steps_per_year": 24,
+      "actual_internal_steps": 240,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0010715230399148,
+      "replicate_SE": 0.0015676859164290165
+    },
+    {
+      "security": "US government (10Y zero)",
+      "nominal_steps_per_year": 24,
+      "actual_internal_steps": 240,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0017017942462458,
+      "replicate_SE": 0.006487392286328474
+    },
+    {
+      "security": "TH corporate (10Y representative)",
+      "nominal_steps_per_year": 24,
+      "actual_internal_steps": 240,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.994222946746193,
+      "replicate_SE": 0.004527377953466415
+    },
+    {
+      "security": "US corporate (10Y representative)",
+      "nominal_steps_per_year": 24,
+      "actual_internal_steps": 240,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0011907522016101,
+      "replicate_SE": 0.006728470200628545
+    },
+    {
+      "security": "TH equity (SET proxy)",
+      "nominal_steps_per_year": 52,
+      "actual_internal_steps": 600,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.9911772903778351,
+      "replicate_SE": 0.010103043006329854
+    },
+    {
+      "security": "US equity (S&P 500 proxy)",
+      "nominal_steps_per_year": 52,
+      "actual_internal_steps": 600,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0068552219643894,
+      "replicate_SE": 0.006944039528155183
+    },
+    {
+      "security": "TH government (10Y zero)",
+      "nominal_steps_per_year": 52,
+      "actual_internal_steps": 600,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0014299064586225,
+      "replicate_SE": 0.0011447786372114758
+    },
+    {
+      "security": "US government (10Y zero)",
+      "nominal_steps_per_year": 52,
+      "actual_internal_steps": 600,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.9949359942473639,
+      "replicate_SE": 0.0027229663041977705
+    },
+    {
+      "security": "TH corporate (10Y representative)",
+      "nominal_steps_per_year": 52,
+      "actual_internal_steps": 600,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 1.0037685002027457,
+      "replicate_SE": 0.002298497546884451
+    },
+    {
+      "security": "US corporate (10Y representative)",
+      "nominal_steps_per_year": 52,
+      "actual_internal_steps": 600,
+      "replicates": 4,
+      "paths_per_run": 1000,
+      "terminal_mean_M": 0.9877886156460849,
+      "replicate_SE": 0.0015947154587813677
+    }
+  ],
+  "convergence": {
+    "asset_names": [
+      "equity_local",
+      "equity_foreign",
+      "government_local",
+      "government_foreign",
+      "corporate_local",
+      "corporate_foreign"
+    ],
+    "sizes": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000
+    ],
+    "replicates": 16,
+    "horizon": 10.0,
+    "seed": 1009,
+    "replicate_seed_step": 101,
+    "rmse": [
+      [
+        0.0365963927515226,
+        0.07687282774986488,
+        0.00800893824457315,
+        0.03430888106256937,
+        0.020282292771008806,
+        0.03914330577666332
+      ],
+      [
+        0.04052892179529154,
+        0.057231677155862984,
+        0.006166457159191635,
+        0.028638221493018205,
+        0.013947311852695899,
+        0.03037133985838079
+      ],
+      [
+        0.033662381315901345,
+        0.03458717286383008,
+        0.004145460371621067,
+        0.02101568667366539,
+        0.0075504257946931875,
+        0.0218113516049265
+      ],
+      [
+        0.020955004439482366,
+        0.028758772956424202,
+        0.0028247113073631364,
+        0.015487924646934777,
+        0.0076021715275790816,
+        0.014928929345772123
+      ],
+      [
+        0.011180019118668847,
+        0.024823188439272476,
+        0.0018970636297170275,
+        0.010523405988424056,
+        0.005623707868649888,
+        0.009255178094162965
+      ],
+      [
+        0.008495476994911561,
+        0.014409234280040597,
+        0.0016163544215158962,
+        0.006442474490269881,
+        0.005075509884231122,
+        0.005472800596952468
+      ]
+    ],
+    "empirical_SD_of_means": [
+      [
+        0.03609792239959136,
+        0.07762888910580736,
+        0.008158116612724,
+        0.035412363068355567,
+        0.020946649836748463,
+        0.040236760783164446
+      ],
+      [
+        0.03894047289591717,
+        0.05686990378229686,
+        0.006358869886561408,
+        0.028770209148387845,
+        0.014277732980574697,
+        0.030192387953647818
+      ],
+      [
+        0.03361484701482081,
+        0.03571175994812854,
+        0.004277337165845568,
+        0.01947268555448003,
+        0.007726406760210516,
+        0.021202400275312512
+      ],
+      [
+        0.020579622130557307,
+        0.029669286314511493,
+        0.0028063205559468577,
+        0.014150418485095335,
+        0.007501609016243353,
+        0.014580001240966844
+      ],
+      [
+        0.010775397677902365,
+        0.025607862685019637,
+        0.0019549472065150393,
+        0.010400717712412046,
+        0.005571663874525108,
+        0.009421573366348593
+      ],
+      [
+        0.007862797226835642,
+        0.014852005177486494,
+        0.001666837246920839,
+        0.006546456671540883,
+        0.005214331275829823,
+        0.005595973385452944
+      ]
+    ],
+    "average_IID_SE": [
+      [
+        0.04513192787564441,
+        0.08008863714581925,
+        0.00823280004269019,
+        0.03447207006454348,
+        0.020834645748608695,
+        0.03398017708887299
+      ],
+      [
+        0.03280463303951649,
+        0.05743040251575839,
+        0.005871228058047807,
+        0.0242753708619259,
+        0.01485425321018093,
+        0.023844890767981713
+      ],
+      [
+        0.022992749185976637,
+        0.039386713542206825,
+        0.004081769826764055,
+        0.017115552376641457,
+        0.01039188220957592,
+        0.016785683411090165
+      ],
+      [
+        0.016101715434073505,
+        0.027743171176060927,
+        0.0028940554349762572,
+        0.012207104388018426,
+        0.007337940202682971,
+        0.011989686080140302
+      ],
+      [
+        0.01144073778930035,
+        0.019619588731806165,
+        0.00203925753040276,
+        0.008707508236343826,
+        0.005197721537083102,
+        0.008539716421225429
+      ],
+      [
+        0.008119607781734829,
+        0.013888678217788282,
+        0.0014415260529727844,
+        0.006195711619166534,
+        0.0036960985541706153,
+        0.006060882035392718
+      ]
+    ],
+    "sigma_over_sqrt_N": [
+      [
+        0.04593597246780464,
+        0.07858969937344826,
+        0.008155113856203086,
+        0.03505433765235749,
+        0.02091315244027426,
+        0.0342894793857189
+      ],
+      [
+        0.03248163763238321,
+        0.05557130935837743,
+        0.005766536309069577,
+        0.024787159863984908,
+        0.014787831906505924,
+        0.024246323396998167
+      ],
+      [
+        0.02296798623390232,
+        0.03929484968672413,
+        0.004077556928101543,
+        0.017527168826178746,
+        0.01045657622013713,
+        0.01714473969285945
+      ],
+      [
+        0.016240818816191605,
+        0.027785654679188716,
+        0.0028832681545347886,
+        0.012393579931992454,
+        0.007393915953252962,
+        0.012123161698499084
+      ],
+      [
+        0.01148399311695116,
+        0.019647424843362064,
+        0.0020387784640507715,
+        0.008763584413089373,
+        0.005228288110068565,
+        0.008572369846429725
+      ],
+      [
+        0.008120409408095802,
+        0.013892827339594358,
+        0.0014416340772673943,
+        0.006196789965996227,
+        0.003696957976626481,
+        0.006061580849249542
+      ]
+    ],
+    "rmse_loglog_slopes": [
+      -0.47978865141923355,
+      -0.45597176160098546,
+      -0.4914224954347628,
+      -0.4810805585513359,
+      -0.39755164071701726,
+      -0.5680621195712731
+    ],
+    "large_N_average_drift": [
+      0.0037700826125077747,
+      0.0009112372671353786,
+      -8.889239964138262e-05,
+      -0.0011523404618163369,
+      0.0005204595053525107,
+      -0.0007705910890182244
+    ],
+    "interpretation": "N^-1/2 is sampling error, not the mean itself; fixed-step bias and rare defaults can prevent RMSE from following that slope."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "date": "2025-10-31",
+  "observations": [
+    {
+      "symbol": "SET",
+      "currency": "THB",
+      "close": 1309.5,
+      "source": "Stock Exchange of Thailand October 2025 market report",
+      "url": "https://www.set.or.th/en/market/news-and-alert/newsdetails?id=99380000&symbol=SET",
+      "raw_sha256": "14e3f3452f4efd1be41a5f96dc5d4d5b80b47e1bd07d332cbd8ef573d27efd9a",
+      "trailing_dividend_yield": 0.0376,
+      "publication_date": "2025-11-05",
+      "note": "Actual month-end level; historical observation, not a predictive backtest or option-implied Heston calibration"
+    },
+    {
+      "symbol": "SP500",
+      "currency": "USD",
+      "close": 6840.2,
+      "source": "Yahoo Finance daily index observations, cross-checked against FRED/SEC publication",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=1759276800&period2=1761955200&interval=1d",
+      "raw_sha256": "0a1f2ff6c6cc646b14470db0ad788c390b8edc44f08c7f2094efb401f74a46b8",
+      "cross_check": "https://fred.stlouisfed.org/data/SP500",
+      "daily_observations": [
+        {
+          "date": "2025-10-01",
+          "close": 6711.2
+        },
+        {
+          "date": "2025-10-02",
+          "close": 6715.35
+        },
+        {
+          "date": "2025-10-03",
+          "close": 6715.79
+        },
+        {
+          "date": "2025-10-06",
+          "close": 6740.28
+        },
+        {
+          "date": "2025-10-07",
+          "close": 6714.59
+        },
+        {
+          "date": "2025-10-08",
+          "close": 6753.72
+        },
+        {
+          "date": "2025-10-09",
+          "close": 6735.11
+        },
+        {
+          "date": "2025-10-10",
+          "close": 6552.51
+        },
+        {
+          "date": "2025-10-13",
+          "close": 6654.72
+        },
+        {
+          "date": "2025-10-14",
+          "close": 6644.31
+        },
+        {
+          "date": "2025-10-15",
+          "close": 6671.06
+        },
+        {
+          "date": "2025-10-16",
+          "close": 6629.07
+        },
+        {
+          "date": "2025-10-17",
+          "close": 6664.01
+        },
+        {
+          "date": "2025-10-20",
+          "close": 6735.13
+        },
+        {
+          "date": "2025-10-21",
+          "close": 6735.35
+        },
+        {
+          "date": "2025-10-22",
+          "close": 6699.4
+        },
+        {
+          "date": "2025-10-23",
+          "close": 6738.44
+        },
+        {
+          "date": "2025-10-24",
+          "close": 6791.69
+        },
+        {
+          "date": "2025-10-27",
+          "close": 6875.16
+        },
+        {
+          "date": "2025-10-28",
+          "close": 6890.89
+        },
+        {
+          "date": "2025-10-29",
+          "close": 6890.59
+        },
+        {
+          "date": "2025-10-30",
+          "close": 6822.34
+        },
+        {
+          "date": "2025-10-31",
+          "close": 6840.2
+        }
+      ]
+    }
+  ],
+  "coverage": "SET month-end spot + published trailing dividend ratio; S&P 500 October daily close observations. No SET daily history or option quotes were loaded."
+}

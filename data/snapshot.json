@@ -1,0 +1,20 @@
+{
+  "snapshot_date": "2025-10-31",
+  "scope": "Observed Thai/US government curve nodes and index spots; assumed stochastic dynamics, FX and corporate credit",
+  "curves": [
+    "thai_curve.json",
+    "us_curve.json"
+  ],
+  "government_quotes": "us_par_yields.json plus Thai dealer quotes embedded in thai_curve.json",
+  "indices": "stock_indices.json",
+  "interpolation": "piecewise linear log discount factors; no extra smoothing",
+  "assumed_parameters": [
+    "Hull\u2013White/G2++ mean reversions and volatilities",
+    "Heston kappa/theta/xi/rho and variance level",
+    "future dividend yields",
+    "FX spot/volatility",
+    "all Brownian correlations",
+    "representative corporate intensity curves, CIR dynamics and 40% recovery"
+  ],
+  "limits": "Real-data initialized research test, not full market calibration, and not a physical-measure historical forecast/backtest."
+}

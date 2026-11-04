@@ -1,0 +1,161 @@
+{
+  "date": "2025-10-31",
+  "source": "Federal Reserve GSW fitted Treasury zero curve (staff research product)",
+  "url": "https://www.federalreserve.gov/data/yield-curve-tables/feds200628.csv",
+  "raw_sha256": "3130a6f0c7af3bf85d3b6076db19085a45c09932745a56cc3c45b60f496c4051",
+  "compounding": "continuously compounded (SVENYXX, as specified in CSV header)",
+  "discount_conversion": "P(0,T)=exp(-published_yield_pct/100*T)",
+  "short_end": "flat continuous zero yield below first 1-year node; explicit interpolation assumption",
+  "nodes": [
+    {
+      "maturity": 1.0,
+      "published_yield_pct": 3.689,
+      "zero_cc": 0.03689
+    },
+    {
+      "maturity": 2.0,
+      "published_yield_pct": 3.5833,
+      "zero_cc": 0.035833
+    },
+    {
+      "maturity": 3.0,
+      "published_yield_pct": 3.5719,
+      "zero_cc": 0.035719
+    },
+    {
+      "maturity": 4.0,
+      "published_yield_pct": 3.6155,
+      "zero_cc": 0.036155
+    },
+    {
+      "maturity": 5.0,
+      "published_yield_pct": 3.6901,
+      "zero_cc": 0.036901
+    },
+    {
+      "maturity": 6.0,
+      "published_yield_pct": 3.7807,
+      "zero_cc": 0.037807
+    },
+    {
+      "maturity": 7.0,
+      "published_yield_pct": 3.8782,
+      "zero_cc": 0.038782000000000004
+    },
+    {
+      "maturity": 8.0,
+      "published_yield_pct": 3.9769,
+      "zero_cc": 0.039769
+    },
+    {
+      "maturity": 9.0,
+      "published_yield_pct": 4.0733,
+      "zero_cc": 0.040733
+    },
+    {
+      "maturity": 10.0,
+      "published_yield_pct": 4.1652,
+      "zero_cc": 0.041651999999999995
+    },
+    {
+      "maturity": 11.0,
+      "published_yield_pct": 4.2515,
+      "zero_cc": 0.042515
+    },
+    {
+      "maturity": 12.0,
+      "published_yield_pct": 4.3315,
+      "zero_cc": 0.043315
+    },
+    {
+      "maturity": 13.0,
+      "published_yield_pct": 4.4048,
+      "zero_cc": 0.044048
+    },
+    {
+      "maturity": 14.0,
+      "published_yield_pct": 4.4715,
+      "zero_cc": 0.044715
+    },
+    {
+      "maturity": 15.0,
+      "published_yield_pct": 4.5316,
+      "zero_cc": 0.045316
+    },
+    {
+      "maturity": 16.0,
+      "published_yield_pct": 4.5853,
+      "zero_cc": 0.045853000000000005
+    },
+    {
+      "maturity": 17.0,
+      "published_yield_pct": 4.6329,
+      "zero_cc": 0.046329
+    },
+    {
+      "maturity": 18.0,
+      "published_yield_pct": 4.6747,
+      "zero_cc": 0.046747
+    },
+    {
+      "maturity": 19.0,
+      "published_yield_pct": 4.7109,
+      "zero_cc": 0.047109
+    },
+    {
+      "maturity": 20.0,
+      "published_yield_pct": 4.742,
+      "zero_cc": 0.04742
+    },
+    {
+      "maturity": 21.0,
+      "published_yield_pct": 4.7682,
+      "zero_cc": 0.047682
+    },
+    {
+      "maturity": 22.0,
+      "published_yield_pct": 4.7898,
+      "zero_cc": 0.047897999999999996
+    },
+    {
+      "maturity": 23.0,
+      "published_yield_pct": 4.8072,
+      "zero_cc": 0.048072
+    },
+    {
+      "maturity": 24.0,
+      "published_yield_pct": 4.8206,
+      "zero_cc": 0.048206
+    },
+    {
+      "maturity": 25.0,
+      "published_yield_pct": 4.8303,
+      "zero_cc": 0.048303000000000006
+    },
+    {
+      "maturity": 26.0,
+      "published_yield_pct": 4.8367,
+      "zero_cc": 0.04836700000000001
+    },
+    {
+      "maturity": 27.0,
+      "published_yield_pct": 4.8399,
+      "zero_cc": 0.048399
+    },
+    {
+      "maturity": 28.0,
+      "published_yield_pct": 4.8402,
+      "zero_cc": 0.048402
+    },
+    {
+      "maturity": 29.0,
+      "published_yield_pct": 4.8378,
+      "zero_cc": 0.048378
+    },
+    {
+      "maturity": 30.0,
+      "published_yield_pct": 4.833,
+      "zero_cc": 0.048330000000000005
+    }
+  ]
+}

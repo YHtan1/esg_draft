@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+outputs/matplotlib-cache/
+
+# Auto-generated C++ extension configs are outside the notebook workflow.
+.vscode/c_cpp_properties.json
+.vscode/launch.json
